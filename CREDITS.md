@@ -3,4 +3,4 @@
  + [Open Budget Oakland](http://openbudgetoakland.org/) ([source](https://github.com/openoakland/openbudgetoakland))
  + [Open Budget Sacramento](http://openbudgetsac.org/) ([source](https://github.com/code4sac/openbudgetsac.org))
  + [SF OpenBook](http://openbook.sfgov.org/)
- + [Budget Data](https://data.sfgov.org/browse?q=sfopenbook&sortBy=relevance&utf8=%E2%9C%93)
+ + [Budget Data](https://data.sfgov.org/City-Management-and-Ethics/Budget/xdgd-c79v) ([dictionary](https://data.sfgov.org/api/views/xdgd-c79v/files/U8jXOCaazl-D34n4IOPX-V_Ej0yokzhqj-yTPDQhCns?download=true&filename=N:\EIS\DataCoordination\Metadata%20Spring%20Cleaning\CON_DataDictionary_Budget.pdf))
