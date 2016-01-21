@@ -1,0 +1,23 @@
+{
+    "conformsTo": "http://codefordc.org/resources/specification.html",
+    "status": "Ideation",
+    "contact": {
+        "name": "MJ Rossetti",
+        "email": "mrossetti@codeforamerica.org",
+        "twitter": "@data_creative"
+    },
+    "bornAt": "Code for San Francisco",
+    "geography": "San Francisco, CA",
+    "type": "Web App",
+    "data": {
+        "San Francisco City Budget":"https://data.sfgov.org/City-Management-and-Ethics/Budget/xdgd-c79v"
+    },
+    "needs": [
+        {"want":"JavaScript "}
+    ],
+    "categories": [
+        {"category":"Financial"},
+        {"category":"Open Data"}
+    ],
+    "moreInfo": "inspired by Open Budget Oakland and Open Budget Sacramento"
+}
